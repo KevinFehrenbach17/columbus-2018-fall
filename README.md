@@ -31,8 +31,10 @@
 - Encapsulation
 
 ### Week 4
-- Dependency Injection/Spring
-- Test Doubles (Mockito)
+- Dependency Injection
+    - Spring
+    - Test Doubles and Schools of TDD
+    - Mockito
 - Build Automation with Gradle
 
 ### Week 5
@@ -61,42 +63,27 @@
 ### Week 12-14
 - Final Project
 
-# Attendance Policy
+## Attendance Policy
 
 Class is from 9:30AM-3:30PM Monday-Friday, with tutoring / study periods Mon-Fri 3:30PM-5:00PM.
 
 You are required to attend a minimum of 90% of class time to be eligible for graduation. Attendance is measured *to the minute*: arriving late or leaving early will negatively impact your attendance. Please inform an instructor if extenuating circumstances arise.
 
-# Grading Policy
+## Grading Policy
 
 In order to pass the course, you must receive a grade of 70% or higher averaged over all the assignments.
 
-## Projects
+### Projects
 
 Projects are graded by WCCI staff. Projects are typically worth 100 points. 90 points of each project will be determined by the tasks that are completed, with attempts resulting in partial credit for a given task. The final 10 points of each project are determined by overall code quality, considering code readability, well-named methods and variables, and comments where necessary.
 
-### Late and Incomplete Projects
+#### Late and Incomplete Projects
 
 Regarding late and incomplete projects, We Can Code IT’s policy is as follows:
 
 In order to pass the course, you must receive a grade of 70% or higher averaged over all the assignments.
 
-## Projects
-
-Projects are graded by WCCI staff. Projects are typically worth 100 points. 90 points of each project will be determined by the tasks that are completed, with attempts resulting in partial credit for a given task. The final 10 points of each project are determined by overall code quality, considering code readability, well-named methods and variables, and comments where necessary.
-
-### Late and Incomplete Projects
-
-Regarding late and incomplete projects, We Can Code IT’s policy is as follows:
-
-- For each day after the project is due, the grade will automatically be deducted by 10 percentage points of the maximum possible score.
-    - To be clear, a project due at 9:30AM on Monday is considered one day late starting at Monday at 9:31AM.
-    - That project is then considered an additional day late starting at 9:31PM on Tuesday, making that project two days late overall.
-- After a project is five days late (using the above example, this would be Friday at 9:31AM), the project is automatically scored at a 0/100 or 0%.
-- If a student knows in advance that she or he will not be able to submit the project by its due date, that student is required to notify the instructors via email as soon as possible.
-- Extensions on project submissions will be given with the Education Team’s discretion in the case of extenuating circumstances.
-
-### Unsatisfactory Progress Probationary Period
+#### Unsatisfactory Progress Probationary Period
 
 If a student is failing a portion of the program, the student will be placed on academic probation. In this time period, the student will be put on a remediation plan and is expected to complete and pass any portion of the class in which the student has failed. If the student cannot resolve his or her failing status satisfactorily, he or she may be dismissed from the program. The student may be eligible for a refund based upon our stated refund policies.
 
@@ -104,30 +91,30 @@ If a student is failing a portion of the program, the student will be placed on 
 
 Students must be passing the course prior to final projects to be eligible to participate in final projects.
 
-# Course Resources
+## Course Resources
 
 In addition to the required text, this and other We Can Code IT repositories will contain code developed in class, slides, reading material, and links to useful resources. In addition, there is a required book and other books that you may find useful. Students may use print or electronic versions based on preference. This syllabus links directly to the publishers' sites for books, but these are likely available via Amazon and other booksellers.
 
-## Required Textbook
+### Required Textbook
 
 - Sierra, Kathy and Bates, Bert. [Head First Java, **_Second Edition_**](http://www.headfirstlabs.com/books/hfjava/). O'Reilly Media, 2005.
 
-## Suggested Textbook
+### Suggested Textbook
 
 - Antonov, Alex. [Spring Boot Cookbook](https://www.packtpub.com/application-development/spring-boot-cookbook). Packt Publishing. 2015.
 
-## Optional Textbooks
+### Optional Textbooks
 
 - Freeman, Eric et al. [Head First Design Patterns](http://www.headfirstlabs.com/books/hfdp/). O'Reilly Media. 2004.
 
-## Online Resources
+### Online Resources
 
-### General
+#### General
 
 - [Slides from Class](./slides.md)
 - [Lynda](https://www.lynda.com/) (This is a free resource if you have a library card. So get a library card.)
 
-### Java
+#### Java
 
 - [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/)
 - [Programming by Doing](https://programmingbydoing.com/)
@@ -142,16 +129,14 @@ In addition to the required text, this and other We Can Code IT repositories wil
 
 #### JPA
 
-- [Java Persistence](https://en.wikibooks.org/wiki/Java_Persistence) book on wikibooks
+- [Java Persistence](https://en.wikibooks.org/wiki/Java_Persistence) book on wikibooks. There is a PDF version available at this link, easier to search and reference.
 
-        	There is a PDF version available at the above link which is easier to search/reference.
-
-### Git
+#### Git
 
 - [GitHub Guides](https://guides.github.com/). github.
 - Chacon, Scott and Ben Straub. [Pro Git](https://git-scm.com/book/en/v2). Apress.
 
-### HTML/CSS/JavaScript
+#### HTML/CSS/JavaScript
 
 - [w3schools](https://w3schools.com)
 - [Mozilla Developer Network (MDN)](https://developer.mozilla.org)
