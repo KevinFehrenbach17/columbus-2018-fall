@@ -10,7 +10,8 @@
 
 ## Weekly Breakdown
 
-### Week 1
+### Week 1 ([details](week-01/README.md))
+
 - Variables, Operators, Expressions, Basic Types
 - Conditionals
 - Strings and Text Processing
