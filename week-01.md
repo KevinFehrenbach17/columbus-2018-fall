@@ -6,7 +6,7 @@
 
 - Introductions
 - Team building: "Hello, Team!"
-- Expectations
+- [Expectations](expectations.md)
 - Policies
 - Roadmap
 - Laptops
