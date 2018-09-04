@@ -18,6 +18,8 @@
 - limit distractions
 - be kind to yourself
 - introspect, try to learn your weaknesses, but be fair
+- stay on task
+- set attainable goals (remember kindness)
 
 ### Pair/Team/Cohort
 
