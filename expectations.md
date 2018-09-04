@@ -17,8 +17,23 @@
   - fix the problem, not the blame
 - limit distractions
 - be kind to yourself
+- introspect, try to learn your weaknesses, but be fair
 
 ### Pair/Team/Cohort
 
+- give constructive feedback
+- trust, foster trust
+- approach things creatively (think outside the box)
+- share responsibilities
+- treat others as equals
+- value others' inputs
+- collaborate (stand on others' shoulders)
+- diversify roles
+- communicate your weaknesses to the team
+- be aware of others' comfort level with work/life/... (check on your teammates' well-being)
+- be patient with your team
+- share credit (there's no I in agile!)
+- plan
 
 ### Instructors / We Can Code IT
+
