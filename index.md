@@ -10,7 +10,7 @@
 
 ## Weekly Breakdown
 
-### Week 1 ([details](week-01))
+### Week 1 ([details](week-01.md))
 
 - Variables, Operators, Expressions, Basic Types
 - Conditionals
