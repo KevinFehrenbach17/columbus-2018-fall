@@ -16,6 +16,11 @@
 - Your first Java Application: "Hello, World!"
 - Define Basic Types and Variables
 
+#### Slides
+
+- [Hello, World](https://wecancodeit.github.io/java-slides/fundamentals/hello-world/)
+- [Basic Types and Variables](https://wecancodeit.github.io/java-slides/fundamentals/basic-types-and-variables/)
+
 #### Activities
 
 - Join Slack
@@ -26,11 +31,6 @@
 - The Eclipse help system (Help->Help Contents) from within Eclipse
 - *Head First Java*, pages 8-9: *Anatomy of a class* and *Writing a class with a main*
 
-#### Slides
-
-- [Hello, World](https://wecancodeit.github.io/java-slides/fundamentals/hello-world/)
-- [Basic Types and Variables](https://wecancodeit.github.io/java-slides/fundamentals/basic-types-and-variables/)
-
 ### Day 2
 
 #### Topics
@@ -38,6 +38,11 @@
 - Work with Operators and Expressions
 - Analyze the impact of data type on assignment statements
 - Conditionals
+
+#### Slides
+
+- [Operators and Expressions](https://wecancodeit.github.io/java-slides/fundamentals/operators-and-expressions/)
+- [Conditionals](https://wecancodeit.github.io/java-slides/fundamentals/conditionals/)
 
 #### Activities
 
@@ -59,56 +64,49 @@
 - [Oracle Java Tutorial, The if-then and if-then-else Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html)
 - [Oracle Java Tutorial, The switch Statement](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/switch.html)
 
-#### Slides
-
-- [Operators and Expressions](https://wecancodeit.github.io/java-slides/fundamentals/operators-and-expressions/)
-- [Conditionals](https://wecancodeit.github.io/java-slides/fundamentals/conditionals/)
-
 ### Day 3
 
 #### Topics
 
 - Accepting User Input
-- Git and GitHub
 
 #### Activities
 
 - [Conditionals and User Input Practice Problems](https://wecancodeit.github.io/java-exercises/fundamentals-practice-problems/conditionals/)
-- [Git Hub/ Git Bash Training](https://github.com/jlord/git-it-electron)
-- [Guide to Initializing and Maintaining A Repo on GitHub](https://wecancodeit.github.io/java-resources/git/managing-your-repo/)
-
-#### References
-
-- [Git Bash commands cheat sheet (work in progress)](https://wecancodeit.github.io/java-resources/bash/)
 
 #### Slides
 
 - [Reading Console Input slides](https://wecancodeit.github.io/java-slides/fundamentals/reading-console-input/)
 
-### Day 4
+### Slipping to next week (because of our abbreviated week)
 
 #### Topics
 
+- Git and GitHub
 - Strings
     - manipulating text
     - methods of the String class
-- Understand what classes are in Java
-
-#### Activities
-
-- [Practice Problems and String Challenges](https://wecancodeit.github.io/java-exercises/fundamentals-practice-problems/strings/)
-- [CodingBat Warmup-1](https://codingbat.com/java/Warmup-1) (String problems)
-
-#### References
-
-- [Strings Student Guide](https://wecancodeit.github.io/java-resources/fundamentals/strings/)
 
 #### Slides
 
 - [Strings](https://wecancodeit.github.io/java-slides/fundamentals/strings/)
 
-### Day 5
+#### Activities
 
-Weekly Graded Exercise: [#](#)
+- Git and GitHub
+    - [Git-it, app for learning Git and GitHub](https://github.com/jlord/git-it-electron)
+    - [Guide to Initializing and Maintaining A Repo on GitHub](https://wecancodeit.github.io/java-resources/git/managing-your-repo/)
+- Strings
+    - [Practice Problems and String Challenges](https://wecancodeit.github.io/java-exercises/fundamentals-practice-problems/strings/)
+    - [CodingBat Warmup-1](https://codingbat.com/java/Warmup-1) (String problems)
 
-Due Monday 9:30 AM: [Submission Link Coming Soon](#)
+#### References
+
+- Find common directory listing and navigation commands in the [Git Bash commands cheat sheet](https://wecancodeit.github.io/java-resources/bash/)
+- [Strings Student Guide](https://wecancodeit.github.io/java-resources/fundamentals/strings/)
+
+### Day 4
+
+Weekly Graded Exercise: [Coming Soon!](#)
+
+Due Monday 12:00 PM: [Submission Link TBD](#)
