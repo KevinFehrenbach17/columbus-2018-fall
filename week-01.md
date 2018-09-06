@@ -78,7 +78,9 @@
 
 - [Reading Console Input slides](https://wecancodeit.github.io/java-slides/fundamentals/reading-console-input/)
 
-### Topics slipping to next week (because of our abbreviated week)
+### Slipping to next week (because of our abbreviated week)
+
+#### Topics
 
 - Git and GitHub
 - Strings
@@ -100,7 +102,7 @@
 
 #### References
 
-- [Git Bash commands cheat sheet (work in progress)](https://wecancodeit.github.io/java-resources/bash/)
+- Find common directory listing and navigation commands in the [Git Bash commands cheat sheet](https://wecancodeit.github.io/java-resources/bash/)
 - [Strings Student Guide](https://wecancodeit.github.io/java-resources/fundamentals/strings/)
 
 ### Day 4
