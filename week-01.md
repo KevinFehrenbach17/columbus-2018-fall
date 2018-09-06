@@ -45,8 +45,8 @@
 - Want more practice? Try [Java Basic Programming : Exercises, Practice, Solution](https://www.w3resource.com/java-exercises/basic/index.php).
 - Even more? [Java Data Types: Exercises, Practice, Solution](https://www.w3resource.com/java-exercises/datatypes/index.php). (*Tip: You can hard code values rather than worrying about user input.*)
 - CodingBat:
-- [set up account](https://codingbat.com/pref?docreate=1) (optional)
-- work through boolean logic problems (the non–String problems) in [Warmup-1](https://codingbat.com/java/Warmup-1)
+    - [set up account](https://codingbat.com/pref?docreate=1) (optional)
+    - work through boolean logic problems (the non–String problems) in [Warmup-1](https://codingbat.com/java/Warmup-1)
 
 #### References
 
