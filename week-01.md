@@ -107,6 +107,6 @@
 
 ### Day 4
 
-Weekly Graded Exercise: [Coming Soon!](#)
+Weekly Graded Exercise: [Fortune Teller](https://wecancodeit.github.io/java-exercises/fortune-teller/)
 
 Due Monday 12:00 PM: [Submission Link TBD](#)
