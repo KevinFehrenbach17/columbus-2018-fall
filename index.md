@@ -17,7 +17,7 @@
 - Strings and Text Processing
 - Git and GitHub
 
-### Week 2
+### Week 2 ([details](week-02.md))
 - Arrays
 - Loops
 - Unit Testing/TDD
