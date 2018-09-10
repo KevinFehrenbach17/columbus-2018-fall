@@ -127,7 +127,7 @@
 	- [CodeKata](http://codekata.com/)
 	- [codekatas.org](http://www.codekatas.org/) (videos)
 	- [Coding Dojo Kata Catalogue](http://codingdojo.org/KataCatalogue/)
-	- [LMGTFY: code katas](http://lmgtfy.com/?q=code+katas) :stuck_out_tongue_winking_eye:
+	- [LMGTFY: code katas](http://lmgtfy.com/?q=code+katas)
 
 #### References
 
