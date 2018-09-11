@@ -68,7 +68,6 @@
 #### References
 
 - [Oracle Java Tutorial, Branching Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/branch.html)
-- [Java Branching Statements @ w3resource](http://www.w3resource.com/java-tutorial/java-branching-statements.php)
 - *Head First Java*, pages 114-115, 119
 
 ### Day 3
