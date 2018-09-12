@@ -109,7 +109,7 @@
     - using the `new` operator to create instances
     - creating and manipulating instance variables (state)
     - creating and using methods
-- using Gradle to configure projects ([script here]([Gradle Scripts](https://github.com/WeCanCodeIT/gradle-scripts)))
+- using Gradle to configure projects ([Gradle script and instructions here](https://github.com/WeCanCodeIT/gradle-scripts/blob/master/README.md))
 
 #### Slides
 
