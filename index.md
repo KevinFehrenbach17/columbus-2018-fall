@@ -24,7 +24,7 @@
 - Intro to OOP
 - Building Classes: Methods and Attributes
 
-### Week 3
+### Week 3 ([details](week-03.md))
 - Collections
     - Lists
     - Maps
