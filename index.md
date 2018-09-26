@@ -31,7 +31,7 @@
 - Inheritance & Polymorphism
 - Encapsulation
 
-### Week 4
+### Week 4 ([details](week-04.md))
 - Dependency Injection
     - Spring
     - Test Doubles and Schools of TDD
