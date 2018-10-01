@@ -72,4 +72,4 @@
 
 Weekly Graded Exercise: [Virtual Pets AMOK](https://wecancodeit.github.io/java-exercises/virtual-pets-amok/)
 
-Due Mon, 9:30 AM:
+Due Mon, 9:30 AM: [Submission Link](https://docs.google.com/forms/d/1TrE-_T56bCkdrPnOqtXtytvG8YxqwVR7YAYSFohqAJk/edit)
