@@ -60,7 +60,6 @@ Forms, Repositories, and REST
 
 ### Resources
 
--   Another getting started guide [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
 -   [Handling Form Submissions](https://spring.io/guides/gs/handling-form-submission/)
 -   [Validating Form Input](https://spring.io/guides/gs/validating-form-input/)
 
