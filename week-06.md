@@ -6,7 +6,7 @@
 
 -   Students will begin able to add styling to their HTML
 
-### Class Preparation
+### Slides
 
 -   [CSS Styling](https://wecancodeit.github.io/java-slides/frontend/css-styling/#/)
 
@@ -22,9 +22,9 @@
 -   Students will be introduced to Bootstrap Templates and Frameworks because they do exist
 -   Students will be reminded that the best way to understand web design is to program it YOURSELF
 
-### Class Preparation
+### Slides
 
--   Project
+-   [CSS Layouts (Without Layout Tools)](https://wecancodeit.github.io/java-slides/frontend/css-layouts-without-layout-tools/#/)
 
 ### References
 
