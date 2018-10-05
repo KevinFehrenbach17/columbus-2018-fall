@@ -49,7 +49,7 @@
 -   MVC
 -   Thymeleaf
 
-### Week 6
+### Week 6 ([details](week-06.md))
 
 -   CSS
 -   Flexbox/Grid
