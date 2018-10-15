@@ -66,4 +66,6 @@
 
 Weekly Graded Exercise: [Professional Portfolio](https://wecancodeit.github.io/java-exercises/professional-portfolio)
 
+[Submission Link](https://goo.gl/forms/1l2wRpID5F12d52U2)
+
 Due Mon, 9:30 AM
