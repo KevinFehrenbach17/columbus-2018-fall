@@ -54,7 +54,7 @@
 -   CSS
 -   Flexbox/Grid
 
-### Week 7
+### Week 7 ([details](week-07.md))
 
 -   Relational Databases and SQL
 -   Java Persistence API (JPA)
