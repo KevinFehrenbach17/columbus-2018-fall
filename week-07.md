@@ -61,6 +61,6 @@
 
 ## Day 5
 
-Weekly Graded Exercise: TBD
+Weekly Graded Exercise: [reviews-site](https://wecancodeit.github.io/java-exercises/reviews-site-fullstack/)
 
 Due Mon, 9:30 AM:
