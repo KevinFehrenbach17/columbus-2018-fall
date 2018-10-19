@@ -69,9 +69,6 @@
 
 ## Day 5
 
--   [Jasmine Testing for JavaScript](https://wecancodeit.github.io/java-slides/frontend/javascript-testing/#/)
--   [AJAX](https://wecancodeit.github.io/java-slides/frontend/ajax/#/)
-
 Weekly Graded Exercise: TBD
 
 Due Mon, 9:30 AM:
