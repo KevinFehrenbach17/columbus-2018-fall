@@ -72,6 +72,6 @@
 -   [Jasmine Testing for JavaScript](https://wecancodeit.github.io/java-slides/frontend/javascript-testing/#/)
 -   [AJAX](https://wecancodeit.github.io/java-slides/frontend/ajax/#/)
 
-Weekly Graded Exercise: [Portfolio Project with JS](https://wecancodeit.github.io/java-exercises/js-professional-portfolio)
+Weekly Graded Exercise: TBD
 
 Due Mon, 9:30 AM:
