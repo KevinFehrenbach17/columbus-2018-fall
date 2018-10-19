@@ -60,15 +60,27 @@
 -   Java Persistence API (JPA)
 -   Spring Data
 
-### Week 8
+### Week 8 ([details](week-08.md))
 
--   JavaScript/jQuery
--   AJAX, JSON, and RESTful APIs
--   Pair Programming (w/ Git/GitHub)
+-   JavaScript
+-   JS Testing
 
 ### Week 9
 
+-   REST
+-   APIs
+-   Single Page Applications (SPA)
+
+### Week 10
+
+-   Java 8
+-   Advanced JS
+
+### Week 11
+
 -   Flex Week
+-   Final Project Pitches
+-   Final Project Sprint 0
 
 ### Week 12-14
 

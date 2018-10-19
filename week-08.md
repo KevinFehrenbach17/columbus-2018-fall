@@ -25,45 +25,47 @@
 
 ### Topics
 
--   Introduction to JQuery
+-   JS Testing
 
 ### Class Preparation
 
--   [jQuery Slide Deck](https://wecancodeit.github.io/java-slides/frontend/jquery/#/)
+-   [Jest Slide Deck](https://wecancodeit.github.io/java-slides/frontend/js-jest-testing)
 
 ### References
 
--   [Try jQuery (jQuery Tutorial)](http://try.jquery.com/)
--   [jQuery Learning Center](http://learn.jquery.com/)
--   [jQuery](https://jquery.com/)
--   [jQuery API documentation](http://api.jquery.com/)
+-   [Jest Docs](https://jestjs.io/docs/en/getting-started)
 
 ## Day 3
 
 ### Topics
 
--   Students will be able to complete Unit Testing in JavaScript with Jasmine
--   Students will perform DOM manipulation
+-   ES2015
 
 ### Class Preparation
 
+-   [Intro to ES6 slides](https://wecancodeit.github.io/java-slides/frontend/es2015/#/)
+
 ### References
 
--   [Jasmine Introduction](https://jasmine.github.io/2.0/introduction.html)
+-   [MDN: ES2015](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_2015_support_in_Mozilla)
+-   [Babel](https://babeljs.io/)
 
 ## Day 4
 
 ### Topics
 
--   ES6
--   Jasmine Testing
+-   OOJS
+-   Functional Programming
 
 ### Class Preparation
 
--   [Intro to ES6 slide deck](https://wecancodeit.github.io/java-slides/frontend/es2015/#/)
--   [Jasmine Testing for JavaScript](https://wecancodeit.github.io/java-slides/frontend/javascript-testing/#/)
+-   [OOJS Slides](https://wecancodeit.github.io/java-slides/frontend/js-oojs)
+-   [FPJS Slides](https://wecancodeit.github.io/java-slides/frontend/js-fpjs)
 
 ### References
+
+-   [MDN: OOJS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS)
+-   [JavaScript: Functional Programming](https://opensource.com/article/17/6/functional-javascript)
 
 ## Day 5
 
