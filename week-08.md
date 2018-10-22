@@ -18,24 +18,10 @@
 
 -   [JavaScript Documentation](http://devdocs.io/javascript/)
 -   [Master the JavaScript Interview: What's the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
+-   [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 -   [A first splash into JavaScript @ MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash)
--   [Javascript30: 30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
 
 ## Day 2
-
-### Topics
-
--   JS Testing
-
-### Class Preparation
-
--   [Jest Slide Deck](https://wecancodeit.github.io/java-slides/frontend/js-jest-testing)
-
-### References
-
--   [Jest Docs](https://jestjs.io/docs/en/getting-started)
-
-## Day 3
 
 ### Topics
 
@@ -49,6 +35,21 @@
 
 -   [MDN: ES2015](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_2015_support_in_Mozilla)
 -   [Babel](https://babeljs.io/)
+-   [Javascript30: 30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
+
+## Day 3
+
+### Topics
+
+-   JS Testing
+
+### Class Preparation
+
+-   [Jest Slide Deck](https://wecancodeit.github.io/java-slides/frontend/js-jest-testing)
+
+### References
+
+-   [Jest Docs](https://jestjs.io/docs/en/getting-started)
 
 ## Day 4
 
@@ -59,8 +60,7 @@
 
 ### Class Preparation
 
--   [OOJS Slides](https://wecancodeit.github.io/java-slides/frontend/js-oojs)
--   [FPJS Slides](https://wecancodeit.github.io/java-slides/frontend/js-fpjs)
+-   [Modular JS](https://wecancodeit.github.io/java-slides/frontend/js-classes-modules-and-functions/#/)
 
 ### References
 
