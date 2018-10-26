@@ -69,6 +69,6 @@
 
 ## Day 5
 
-Weekly Graded Exercise: TBD
+Weekly Graded Exercise: [Professional Portfolio: The Revengening](https://wecancodeit.github.io/java-exercises/js-professional-portfolio/)
 
 Due Mon, 9:30 AM:
