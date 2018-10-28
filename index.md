@@ -65,7 +65,7 @@
 -   JavaScript
 -   JS Testing
 
-### Week 9
+### Week 9 ([details](week-09.md))
 
 -   REST
 -   APIs
