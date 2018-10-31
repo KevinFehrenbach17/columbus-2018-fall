@@ -11,7 +11,7 @@
 ### Class Preparation
 
 -   [Persistent Data Storage](https://wecancodeit.github.io/java-resources/data-access/h2/persistent-storage/)
--   [Getting Started with HTML Forms](https://github.com/WeCanCodeIT/java-resources/blob/master/jpa/forms.md)
+-   [Getting Started with HTML Forms](https://wecancodeit.github.io/java-resources/jpa/forms.html)
 -   [Query Creation](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.query-methods.query-creation)
 -   [Model Interface](https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/ui/Model.html)
 
@@ -35,15 +35,15 @@ Campus closed for Halloween Eve
 
 ### Slides
 
--   [AJAX](https://wecancodeit.github.io/java-slides/frontend/ajax)
--   [Fetch](https://wecancodeit.github.io/java-slides/frontend/js-fetch)
+-   [AJAX](https://wecancodeit.github.io/java-slides/frontend/js-ajax)
 -   [Promises](https://wecancodeit.github.io/java-slides/frontend/js-promises)
+-   [Fetch](https://wecancodeit.github.io/java-slides/frontend/js-fetch)
 
 ### Resources
 
 -   [MDN - AJAX](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
--   [MDN - Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 -   [MDN - Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+-   [MDN - Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 -   [Spring Docs](https://docs.spring.io/spring/docs/4.3.x/spring-framework-reference/htmlsingle/)
 
 ## Day 4
