@@ -12,8 +12,6 @@
 
 -   [Persistent Data Storage](https://wecancodeit.github.io/java-resources/data-access/h2/persistent-storage/)
 -   [Getting Started with HTML Forms](https://wecancodeit.github.io/java-resources/jpa/forms.html)
--   [Query Creation](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.query-methods.query-creation)
--   [Model Interface](https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/ui/Model.html)
 
 ## Day 2
 
@@ -54,7 +52,8 @@ Campus closed for Halloween Eve
 
 ### Resources
 
--   [W3 Schools Ajax Introduction](https://www.w3schools.com/xml/ajax_intro.asp)
+-   [Query Creation](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.query-methods.query-creation)
+-   [Model Interface](https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/ui/Model.html)
 
 ## Day 5
 
