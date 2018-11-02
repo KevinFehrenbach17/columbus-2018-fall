@@ -8,7 +8,7 @@
 
 ### Slides
 
--   [CSS Styling](https://wecancodeit.github.io/java-slides/frontend/css-styling/#/)
+-   [CSS Styling](https://wecancodeit.github.io/java-slides/frontend/css-intro)
 
 ### References
 

@@ -12,7 +12,7 @@
 ### Class Preparation
 
 -   [Java vs JavaScript slides](https://wecancodeit.github.io/java-slides/web/java-vs-javascript/)
--   [Intro to JavaScript](https://wecancodeit.github.io/java-slides/frontend/javascript/#/)
+-   [Intro to JavaScript](https://wecancodeit.github.io/java-slides/frontend/js-intro/#/)
 
 ### References
 
@@ -29,7 +29,7 @@
 
 ### Class Preparation
 
--   [Intro to ES6 slides](https://wecancodeit.github.io/java-slides/frontend/es2015/#/)
+-   [Intro to ES6 slides](https://wecancodeit.github.io/java-slides/frontend/js-es2015-and-beyond/#/)
 
 ### References
 
