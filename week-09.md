@@ -57,6 +57,6 @@ Campus closed for Halloween Eve
 
 ## Day 5
 
-Weekly Graded Exercise: [TBD](https://www.catfacts.co/)
+Weekly Graded Exercise: [Moar Reviews!!!](https://wecancodeit.github.io/java-exercises/reviews-site-iteration-3/)
 
 Due Mon, 9:30 AM:
