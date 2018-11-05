@@ -71,7 +71,7 @@
 -   APIs
 -   Single Page Applications (SPA)
 
-### Week 10
+### Week 10 ([details](week-10.md))
 
 -   Java 8
 -   Advanced JS
