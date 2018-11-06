@@ -21,14 +21,14 @@
 
 ### Slides
 
--   [JS: OOP & FP](https://wecancodeit.github.io/java-slides/frontend/js-modules-classes-and-functions)
+-   [JS: OOP & FP](https://wecancodeit.github.io/java-slides/frontend/js-oop-and-fp)
 -   [JS Bundlers](https://wecancodeit.github.io/java-resources/frontend/js-parcel)
 
 ## Day 3/4
 
 ### Bridge Project
 
-[TBD](https://)
+[Album Collection](https://wecancodeit.github.io/java-exercises/album-collection/)
 
 ## Day 5
 
