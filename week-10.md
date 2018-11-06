@@ -22,7 +22,7 @@
 ### Slides
 
 -   [JS: OOP & FP](https://wecancodeit.github.io/java-slides/frontend/js-oop-and-fp)
--   [JS Bundlers](https://wecancodeit.github.io/java-resources/frontend/js-parcel)
+-   [JS Bundlers](https://wecancodeit.github.io/java-resources/frontend/js-bundlers)
 
 ## Day 3/4
 
