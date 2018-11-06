@@ -17,10 +17,12 @@
 ### Topics
 
 -   Students will be introducted the two pillars of JS: OOP and FP
+-   Students will be introduced to Bundlers: Webpack & Parcel
 
 ### Slides
 
 -   [JS: OOP & FP](https://wecancodeit.github.io/java-slides/frontend/js-modules-classes-and-functions)
+-   [JS Bundlers](https://wecancodeit.github.io/java-resources/frontend/js-parcel)
 
 ## Day 3/4
 
